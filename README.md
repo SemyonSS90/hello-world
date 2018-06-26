@@ -1,2 +1,3 @@
 # hello-world
 first steps with github
+Just trying to figure out how the process works...
